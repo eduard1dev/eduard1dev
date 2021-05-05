@@ -1,6 +1,6 @@
 <h2>About me</h2>
 Hi, I'm Carlos Eduardo.
-I'm studying React, React Native and interested in Node.js.
+I'm studying React Native, React.js and interested in Node.js.
 <h2>Skills :rocket:</h2>
 <div>
   <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
