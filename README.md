@@ -11,5 +11,6 @@ I'm studying React Native, React.js and interested in Node.js.
   <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
 </div>
 <h2>Contact</h2>
-<a target="_blank" href='https://www.linkedin.com/in/carlos-eduardo-101486126/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
-
+<a href='https://www.linkedin.com/in/carlos-eduardo-101486126/'>
+  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
+</a>
