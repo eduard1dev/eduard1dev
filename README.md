@@ -1,6 +1,6 @@
 <h2>About me</h2>
 Hi, I'm Carlos Eduardo.
-I'm working with React Native, React.js and studying in Node.js 
+I'm working with React Native, React.js and Node.js 
 <br/><br/>
 Music :musical_note: and Blockchain enthusiast. 
 <h2>Skills :rocket:</h2>
