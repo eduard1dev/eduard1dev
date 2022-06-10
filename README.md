@@ -1,7 +1,6 @@
-<h2 style={{text-align: 'center'}}>Hello there! ✋</h2>
-I'm working with React Native, React.js and Node.js 
-<br/><br/>
-Music :musical_note: and Blockchain ⛓️ enthusiast. 
+<h1 align='center'>Hello there! ✋</h1>
+<p align='center'>I'm working with React Native, React.js and Node.js<p/>
+<p align='center'>Music :musical_note: and Blockchain ⛓️ enthusiast.<p/>
 <h2>Skills :rocket:</h2>
 <div>
   <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
