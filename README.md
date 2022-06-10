@@ -1,5 +1,4 @@
-<h2>About me</h2>
-Hi, I'm Carlos Eduardo.
+<h2>Hello there!</h2>
 I'm working with React Native, React.js and Node.js 
 <br/><br/>
 Music :musical_note: and Blockchain enthusiast. 
