@@ -1,7 +1,7 @@
-<h2>Hello there!</h2>
+<h2>Hello there! ✋</h2>
 I'm working with React Native, React.js and Node.js 
 <br/><br/>
-Music :musical_note: and Blockchain enthusiast. 
+Music :musical_note: and Blockchain ⛓️ enthusiast. 
 <h2>Skills :rocket:</h2>
 <div>
   <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
