@@ -1,4 +1,4 @@
-<h2>Hello there! ✋</h2>
+<h2 style={{text-align: 'center'}}>Hello there! ✋</h2>
 I'm working with React Native, React.js and Node.js 
 <br/><br/>
 Music :musical_note: and Blockchain ⛓️ enthusiast. 
